@@ -6,7 +6,5 @@ package mFaro.Jeux;
 public  class  PartieBowling {
     protected Jeu tabJeu[] = new Jeu[10];
 
-    public void demarrerJeu(Jeu jeu) {
 
-    }
 }

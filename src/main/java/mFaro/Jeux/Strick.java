@@ -1,13 +1,9 @@
 package mFaro.Jeux;
 
 /**
- * Created by Mes documents on 14/11/2016.
+ * Created by Mes documents on 15/11/2016.
  */
-public class Spare extends Jeu{
-
-    public Spare(){
-
-    }
+public class Strick extends Jeu {
 
     @Override
     public int calculerScore() {
